@@ -120,6 +120,14 @@ h4 {
 	word-spacing:5px;
 }
 
+.footer-apningstider {
+	font: 18px/1.2 'Crimson Text', serif;
+	color: #e6e5e6;
+	padding-left:20px;
+	float:left;
+	word-spacing:5px;
+}
+
 .footer-content-hoyre {
   padding-right:40px;
   margin-top:20px;
