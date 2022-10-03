@@ -2,7 +2,10 @@
 
 Hjemmeside laget av Oblig gruppe 4
 
-- Kristian Sørlie- Hirra Gondal- Hali Hussein Aded- Mohammad Nasir Amin
+- Kristian Sørlie
+- Hirra Gondal
+- Hali Hussein Aded
+- Mohammad Nasir Amin
 
 
 ## Kilder
