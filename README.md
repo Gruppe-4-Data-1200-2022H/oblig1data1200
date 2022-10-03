@@ -14,7 +14,7 @@
 
 [Bilder](https://unsplash.com/)
 
-[Google Guidelines for Dark Material Design](https://material.io/design/color/dark-theme.html)
+[Google Guidelines for Dark Material Design (hjalp med å finne riktig fargekombinasjon)](https://material.io/design/color/dark-theme.html)
 
 
 ## WAVE Web Accessibility Evaluation Tool
