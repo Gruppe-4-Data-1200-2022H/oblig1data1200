@@ -4,7 +4,7 @@
 
 - Kristian Sørlie
 - Hirra Gondal
-- Hali Hussein Aded
+- Halimo Hussein Aded
 - Mohammad Nasir Amin
 
 
